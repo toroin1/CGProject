@@ -1,0 +1,52 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 26.11.2018 15:54:25
+
+newmtl Bertfrank_Masina_Table_Lamp_mtl_1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.3529 0.2706 0.1373
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_bump dcmap_Bertfrank_Masina Lamp_bump.jpg
+	bump dcmap_Bertfrank_Masina Lamp_bump.jpg
+
+newmtl Bertfrank_Masina_Table_Lamp_mtl_2
+	Ns 10.0000
+	Ni 1.5000
+	d 0.3686
+	Tr 0.6314
+	Tf 0.3686 0.3686 0.3686 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.9529 0.9529 0.9529
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Bertfrank_Masina_Table_Lamp_mtl_3
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Bertfrank_Masina_Table_Lamp_mtl_4
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.9569 0.9451 0.9373
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
